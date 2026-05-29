@@ -6,4 +6,4 @@ snakecode86@gmail.com
 ## Навыки
 Full-stack, DevOps, Testing
 ## Основной стек
-Python, Django, pytest, HTML, JS, SQL, MySQL, PostgreSQL, Docker, Git, GitHub
+Python, Django, pytest, HTML, CSS, JS, SQL, MySQL, PostgreSQL, Docker, Git, GitHub
