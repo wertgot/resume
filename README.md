@@ -5,12 +5,16 @@
     <title>Wertgot GitHub Profile</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
-
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
-</div>
-
-</body>
 </html>
+
+### mail
+snakecode86@gmail.com
+### Разрабатываю:
+Сайты, ТГ-ботов, автотесты
+### Навыки
+Full-stack, DevOps, Testing
+### Основной стек
+Python, Django, pytest, HTML, CSS, JS, SQL, MySQL, PostgreSQL, Docker, Git, GitHub
+
+### 📈 GitHub Activity Graph:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wertgot)](https://git.io/streak-stats)
